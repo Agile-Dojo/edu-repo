@@ -12,3 +12,5 @@ nieco nove
 #section 4
 lucina zmena
 #section 5
+
+luca robi zmeny
